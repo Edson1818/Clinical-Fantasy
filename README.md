@@ -23,7 +23,7 @@ A tool for optimising FPL chip strategies using data-driven analysis. The projec
 ## Setup
 1. Clone this repository:
     ```powershell
-    git clone https://github.com/yourusername/clinical_fantasy.git
+    git clone https://github.com/Edson1818/Clinical.git
     ```
 2. Install dependencies:
     ```powershell
