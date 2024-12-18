@@ -4,6 +4,16 @@
 ## Overview
 A tool for optimising FPL chip strategies using data-driven analysis. The project integrates football data APIs, automates analysis, and visualises insights.
 
+## Documentation
+For detailed information on the project, please refer to the following sections:
+
+- [Project Overview](docs/overview.md)
+- [API Setup](docs/api_setup.md)
+- [Data Cleaning Process](docs/data_cleaning.md)
+- [Visualisations](docs/visualisation.md)
+- [Future Improvements](docs/future_improvements.md)
+
+
 ## Features
 - Fetches football team data from the Sportmonks API.
 - Converts and cleans raw JSON data into CSV format.
