@@ -1,8 +1,6 @@
 ﻿# xGA and xG per game - away data
 
-Step 1: The script [away data script](new_folder/awaydatascript.png)
-
-This script automates the process of extracting data from the "Away" tab on the Understat EPL page. It performs the following tasks:
+[This script]((new_folder/awaydatascript.png) automates the process of extracting data from the "Away" tab on the Understat EPL page. It performs the following tasks:
 
 Navigates to the data source using Selenium.
 
