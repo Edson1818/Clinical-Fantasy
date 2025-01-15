@@ -1,2 +1,2 @@
-﻿# Away xGA and xG per game
+﻿# xGA and xG per game - away data
 
