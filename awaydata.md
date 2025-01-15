@@ -14,18 +14,18 @@ This script is useful for analysing team performance in away matches, focusing o
 
 Skills used:
 
-Python Programming - writing structured and functional Python code, handling exceptions and implementing error-handling mechanisms 
+Python Programming - writing structured and functional Python code, handling exceptions and implementing error-handling mechanisms. 
 
-Selenium Automation - navigating web pages using Selenium WebDriver, interacting with web elements via XPath and Selenium function, waiting for elements to be clickable using explicit waits
+Selenium Automation - navigating web pages using Selenium WebDriver, interacting with web elements via XPath and Selenium function, waiting for elements to be clickable using explicit waits.
 
 Web Scraping - extracting table rows and cells from a web page, parsing text data from HTML elements.
 
 Data Processing - cleaning and validating numeric data (xG and xGA values), calculating derived metrics like xG per game and xGA per game.
 
-Pandas Data Manipulation - creating a DataFrame from extracted data, saving data to a CSV file for later use
+Pandas Data Manipulation - creating a DataFrame from extracted data, saving data to a CSV file for later use.
 
-Regular Expressions (Regex) - cleaning numeric data by removing unwanted characters
+Regular Expressions (Regex) - cleaning numeric data by removing unwanted characters.
 
-File Handling - storing processed data into an optimised and readable CSV format
+File Handling - storing processed data into an optimised and readable CSV format.
 
-Basic Debugging - printing logs to trace script execution steps (e.g., loading page, extracting rows)
+Basic Debugging - printing logs to trace script execution steps (e.g., loading page, extracting rows).
