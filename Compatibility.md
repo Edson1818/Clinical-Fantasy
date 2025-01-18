@@ -4,10 +4,10 @@
 18.01.25 - I am aiming to visualise the statistics generated from the [**table**](images/awaydataclean.png) produced via the [**away script**](new_folder/awaydatascript.png). The process involves using several Python packages, which must be compatible with the `numpy` library. 
 
 ## Challenges
-One major challenge encountered was dependency conflicts between `numpy` and other required packages, which resulted in [**errors**](images/numpy error.png) during installation and execution:
+One major challenge encountered was dependency conflicts between `numpy` and other required packages, which resulted in [**errors**](images/numpy_error.png) during installation and execution:
 
 ## Solution
-To resolve this issue, I opted to use a [**virtual environment**](images/venv.png). This approach isolates the project dependencies, ensuring compatibility and preventing conflicts. The virtual environment has been successfully implemented to run the [dash script](images/dash.png) & create a [graph](images/dash table rough.png):
+To resolve this issue, I opted to use a [**virtual environment**](images/venv.png). This approach isolates the project dependencies, ensuring compatibility and preventing conflicts. The virtual environment has been successfully implemented to run the [dash script](images/dash.png) & create a [graph](images/dash_table_rough.png):
 
 ## Next Step
 Improving on my 1st draft & producing a better graph(s)
