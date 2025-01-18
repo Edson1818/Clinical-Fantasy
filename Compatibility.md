@@ -1,7 +1,7 @@
 # Problems and Solutions: Visualising Football Stats
 
 ## Overview
-This project visualises football statistics generated from the table produced via the **away script** ([insert link here]). The process involves using several Python packages, which must be compatible with the `numpy` library. 
+This project visualises football statistics generated from the [table](images/awaydataclean.png) produced via the **away script** ([insert link here]). The process involves using several Python packages, which must be compatible with the `numpy` library. 
 
 ## Challenges
 One major challenge encountered was dependency conflicts between `numpy` and other required packages, which resulted in errors during installation and execution:
