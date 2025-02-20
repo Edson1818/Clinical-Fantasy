@@ -3,7 +3,7 @@
 ## Overview
 A tool for optimising fantasy football gameplay using data-driven analysis.
 
-## Current features
+
 
 
 
